@@ -19,7 +19,7 @@
 
 ## 1. Introduction
 
-The **College Management System (CMS)** is a Python-based desktop application built using **Tkinter**. It was developed as part of a summer internship at **Six Phrase, Coimbatore** by **B. Navyasree**, a student of G. Pulla Reddy Engineering College.
+The **College Management System (CMS)** is a Python-based desktop application built using **Tkinter**. It was developed as part of a summer internship at **Six Phrase, Coimbatore** by **B. Gayathri Bhargavi**, a student of G. Pulla Reddy Engineering College.
 
 The system is designed to improve the management of academic records for students and faculty, providing features such as GPA calculation, performance tracking, and visual analytics.
 
